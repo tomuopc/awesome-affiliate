@@ -1,4 +1,4 @@
-# Affiliate Marketer Essential Plugins
+# Awesome Affiliate Marketing Extension
 
 **Bulk Website Infringement Keyword Detection**  
   Quickly scan your website for potentially infringing or sensitive keywords that may violate platform or advertising policies.  
